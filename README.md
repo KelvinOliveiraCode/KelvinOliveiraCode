@@ -14,7 +14,7 @@ Ananindeua, PA — Brasil
 
 ## Sobre mim | About me
 
-🇧🇷 Formado em Redes de Computadores (IFPA), cursando Análise e Desenvolvimento de Sistemas (Uniasselvi). Em 2026 fundei o ecossistema **KODAROS** — 4 sites de tecnologia e educação publicados e em produção — e passei na etapa seletiva de três bootcamps corporativos da DIO (Santander Excel+IA, Bradesco, Riachuelo), saindo de cada um com um projeto publicado. Meu foco: pipelines de dados e modelos de ML em Python (pandas, scikit-learn), análise e dashboards em Excel/Power Query com IA no fluxo de trabalho (Copilot, Claude Code, GPT Agents), e interfaces React/TypeScript que colocam essas análises na mão do usuário.
+🇧🇷 Cursando bacharelado em Ciência da Computação (IFPA) e Análise e Desenvolvimento de Sistemas (Uniasselvi) — ambos iniciados em 2026. Em 2026 fundei o ecossistema **KODAROS** — 4 sites de tecnologia e educação publicados e em produção — e passei na etapa seletiva de três bootcamps corporativos da DIO (Santander Excel+IA, Bradesco, Riachuelo), saindo de cada um com um projeto publicado. Meu foco: pipelines de dados e modelos de ML em Python (pandas, scikit-learn), análise e dashboards em Excel/Power Query com IA no fluxo de trabalho (Copilot, Claude Code, GPT Agents), e interfaces React/TypeScript que colocam essas análises na mão do usuário.
 
 🇺🇸 IT student and builder from Belém, Brazil. In 2026 I founded the **KODAROS** ecosystem — 4 production sites — and passed the selection stage of three corporate DIO bootcamps (Santander, Bradesco, Riachuelo), shipping a published project from each. My focus: data pipelines and ML models in Python (pandas, scikit-learn), Excel/Power Query analysis with AI in the workflow, and React/TypeScript interfaces that put those analyses in the user's hands.
 
@@ -42,7 +42,7 @@ Ananindeua, PA — Brasil
 
 ## Contato | Contact
 
-- LinkedIn: [kelvin-oliveira-0282033b4](https://www.linkedin.com/in/kelvin-oliveira-0282033b4/)
+- LinkedIn: [kelvin-oliveira-code](https://www.linkedin.com/in/kelvin-oliveira-code/)
 - Portfólio: [kelvinoliveiracode.github.io/Portfolio](https://kelvinoliveiracode.github.io/Portfolio/)
 
 ---
