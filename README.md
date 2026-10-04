@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Kelvin Oliveira
 
@@ -82,28 +82,34 @@ Ananindeua, PA — Brasil
 
 ### 🌐 Redes & infraestrutura
 
-Todos com `pytest`, cobertura medida, docs PT/EN e CI em `windows-latest`. Dados fictícios, execução local. Comando único: `python -m pytest tests/ -v`
+Todos com `pytest`, cobertura medida, docs PT/EN e CI em `windows-latest`. Neste bloco: 2704 testes, cobertura media 94%. Dados fictícios, execução local. Comando único: `python -m pytest tests/ -v`
 
 | Projeto | O que entrega |
 |---|---|
-| [rede-lab-topologia](https://github.com/KelvinOliveiraCode/rede-lab-topologia) | VLANs, rotas, trunk — 181 testes, 96% |
-| [modbus-scanner](https://github.com/KelvinOliveiraCode/modbus-scanner) | Modbus TCP do zero — 306 testes, 93% |
-| [wifi-site-survey](https://github.com/KelvinOliveiraCode/wifi-site-survey) | Mapa RSSI — 262 testes, 95% |
-| [network-ci-pipeline](https://github.com/KelvinOliveiraCode/network-ci-pipeline) | Validador CI, 24 regras — 183 testes |
-| [config-backup-switches](https://github.com/KelvinOliveiraCode/config-backup-switches) | Backup com normalização — 139 testes |
-| [infra-as-code-lab](https://github.com/KelvinOliveiraCode/infra-as-code-lab) | IaC: plano, diff — 121 testes |
-| [vpc-3-tier-segura](https://github.com/KelvinOliveiraCode/vpc-3-tier-segura) | VPC 3 camadas — 105 testes |
-| [certificador-cobre-simulado](https://github.com/KelvinOliveiraCode/certificador-cobre-simulado) | NEXT, laudo — 84 testes, 96% |
-| [calculadora-enlace-cobre](https://github.com/KelvinOliveiraCode/calculadora-enlace-cobre) | Orçamento de perda — 72 testes |
-| [cftv-simulador-nvr](https://github.com/KelvinOliveiraCode/cftv-simulador-nvr) | NVR, 3 falhas — 43 testes |
-| [camera-onboarding](https://github.com/KelvinOliveiraCode/camera-onboarding) | Onboarding IP em lote — 37 testes |
-| [rack-planner](https://github.com/KelvinOliveiraCode/rack-planner) | U, peso, corrente — 54 testes |
-| [finops-dashboard](https://github.com/KelvinOliveiraCode/finops-dashboard) | Fatura cloud IQR — 59 testes |
-| [lab-backup-recuperacao](https://github.com/KelvinOliveiraCode/lab-backup-recuperacao) | Hash, GFS — 48 testes |
-| [energy-dashboard-predial](https://github.com/KelvinOliveiraCode/energy-dashboard-predial) | Consumo por andar — 74 testes |
-| [demand-limiting](https://github.com/KelvinOliveiraCode/demand-limiting) | Corte de demanda — 50 testes |
-| [helpdesk-tickets](https://github.com/KelvinOliveiraCode/helpdesk-tickets) | Fila, SLA — 82 testes |
-| [workstation-onboarding](https://github.com/KelvinOliveiraCode/workstation-onboarding) | Setup dry-run — 52 testes |
+| [rede-lab-topologia](https://github.com/KelvinOliveiraCode/rede-lab-topologia) | VLANs, rotas, trunk - 181 testes, 96% |
+| [modbus-scanner](https://github.com/KelvinOliveiraCode/modbus-scanner) | Modbus TCP do zero - 306 testes, 93% |
+| [pentest-lab-scanner](https://github.com/KelvinOliveiraCode/pentest-lab-scanner) | 11 falhas plantadas, cada uma com CWE - 290 testes, 94% |
+| [wifi-site-survey](https://github.com/KelvinOliveiraCode/wifi-site-survey) | Mapa de RSSI por andar - 262 testes, 95% |
+| [network-ci-pipeline](https://github.com/KelvinOliveiraCode/network-ci-pipeline) | Validador de config para CI, 24 regras - 183 testes, 95% |
+| [threat-intel-dashboard](https://github.com/KelvinOliveiraCode/threat-intel-dashboard) | Inteligencia de ameaca, risco - 189 testes, 96% |
+| [config-backup-switches](https://github.com/KelvinOliveiraCode/config-backup-switches) | Backup com normalizacao e hash - 139 testes, 94% |
+| [infra-as-code-lab](https://github.com/KelvinOliveiraCode/infra-as-code-lab) | IaC: plano, diff, idempotencia - 121 testes, 88% |
+| [vpc-3-tier-segura](https://github.com/KelvinOliveiraCode/vpc-3-tier-segura) | VPC de 3 camadas com firewall - 105 testes, 90% |
+| [certificador-cobre-simulado](https://github.com/KelvinOliveiraCode/certificador-cobre-simulado) | NEXT, split pair, laudo - 84 testes, 98% |
+| [calculadora-enlace-cobre](https://github.com/KelvinOliveiraCode/calculadora-enlace-cobre) | Orcamento de perda do enlace - 72 testes, 99% |
+| [siem-logs-lab](https://github.com/KelvinOliveiraCode/siem-logs-lab) | 7 regras, MITRE ATT&CK - 115 testes, 94% |
+| [cftv-simulador-nvr](https://github.com/KelvinOliveiraCode/cftv-simulador-nvr) | NVR com 3 falhas plantadas - 43 testes, 95% |
+| [camera-onboarding](https://github.com/KelvinOliveiraCode/camera-onboarding) | Onboarding IP em lote - 37 testes, 83% |
+| [vms-integration-labs](https://github.com/KelvinOliveiraCode/vms-integration-labs) | Auditoria com hash encadeado - 41 testes, 93% |
+| [finops-dashboard](https://github.com/KelvinOliveiraCode/finops-dashboard) | Fatura de nuvem, anomalia por IQR - 59 testes, 93% |
+| [serverless-log-guard](https://github.com/KelvinOliveiraCode/serverless-log-guard) | Serverless simulada, mascaramento - 33 testes, 81% |
+| [lab-backup-recuperacao](https://github.com/KelvinOliveiraCode/lab-backup-recuperacao) | Hash, GFS, restauracao - 48 testes, 90% |
+| [kb-search](https://github.com/KelvinOliveiraCode/kb-search) | TF-IDF e cosseno escritos a mao - 84 testes, 99% |
+| [demand-limiting](https://github.com/KelvinOliveiraCode/demand-limiting) | Corte de demanda horaria - 50 testes, 98% |
+| [helpdesk-tickets](https://github.com/KelvinOliveiraCode/helpdesk-tickets) | Fila por severidade, SLA, MTTR - 82 testes, 97% |
+| [workstation-onboarding](https://github.com/KelvinOliveiraCode/workstation-onboarding) | Setup de estacao com dry-run - 52 testes, 89% |
+| [rack-planner](https://github.com/KelvinOliveiraCode/rack-planner) | U, peso, corrente por fase - 54 testes, 98% |
+| [energy-dashboard-predial](https://github.com/KelvinOliveiraCode/energy-dashboard-predial) | Consumo por andar, desvio - 74 testes, 98% |
 
 ### 📬 Contato
 
