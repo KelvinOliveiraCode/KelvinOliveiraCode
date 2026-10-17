@@ -34,13 +34,10 @@ Os 12 projetos com página publicada e funcionando:
 | Projeto | Área | Stack |
 |---|---|---|
 | [Gerador de currículos ATS](https://github.com/KelvinOliveiraCode/gerador-de-curriculos-ats) | Web & Produto | React, TypeScript, Tailwind |
-| [Dashboard de vendas Porsche](https://github.com/KelvinOliveiraCode/dashboard-vendas-porsche-dio) | Web & Produto | HTML, CSS, Vanilla JS |
 | [Mostruário de 20 modelos de sites](https://github.com/KelvinOliveiraCode/modelos-de-sites) | Web & Produto | HTML, CSS, Design |
 | [KODAROS Ferramentas](https://github.com/KelvinOliveiraCode/kodaros-ferramentas) | Web & Produto | PWA, JavaScript, Service Worker |
 | [Garimpo](https://github.com/KelvinOliveiraCode/garimpo) | Web & Produto | HTML, CSS, SEO |
 | [Cloud4All](https://github.com/KelvinOliveiraCode/cloud4all) | Web & Produto | HTML, Rule engine |
-| [TechCards](https://github.com/KelvinOliveiraCode/techcards) | Web & Produto | HTML, Offline, Education |
-| [Chopp Gourmet](https://github.com/KelvinOliveiraCode/chopp-gourmet) | Web & Produto | HTML, Branding, Mobile |
 | [Este portfólio](https://github.com/KelvinOliveiraCode/portfolio) | Web & Produto | HTML, CSS, Vanilla JS |
 | [Tessumax](https://github.com/KelvinOliveiraCode/tessumax-landing) | Web & Produto | HTML, Landing, Conversion |
 | [Guias de estudo](https://github.com/KelvinOliveiraCode/guias-estudo) | Web & Produto | HTML, Content, SEO |
