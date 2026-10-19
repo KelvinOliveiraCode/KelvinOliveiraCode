@@ -2,7 +2,7 @@
 
 Desenvolvedor de software com foco em dados e IA, backend Java, frontend web, cibersegurança, redes e infraestrutura. Estudante de Ciência da Computação (IFPA) e de Análise e Desenvolvimento de Sistemas (Uniasselvi), baseado em Ananindeua, PA.
 
-100+ repositórios públicos no GitHub, 12 deles com página publicada e funcionando. Quatro bootcamps corporativos com etapa seletiva concluídos em 2026 na DIO (Santander, Bradesco, Riachuelo, CI&T).
+100+ repositórios públicos no GitHub, 11 deles com página publicada e funcionando. Quatro bootcamps corporativos com etapa seletiva concluídos em 2026 na DIO (Santander, Bradesco, Riachuelo, CI&T).
 
 ## O que eu construo
 
@@ -29,7 +29,7 @@ Seis frentes, um mesmo método: entregar o projeto todo, do dado bruto ao deploy
 
 ## Projetos em destaque
 
-Os 12 projetos com página publicada e funcionando:
+Onze repositórios têm página publicada e funcionando. Oito deles estão aqui:
 
 | Projeto | Área | Stack |
 |---|---|---|
@@ -40,7 +40,6 @@ Os 12 projetos com página publicada e funcionando:
 | [Cloud4All](https://github.com/KelvinOliveiraCode/cloud4all) | Web & Produto | HTML, Rule engine |
 | [Este portfólio](https://github.com/KelvinOliveiraCode/portfolio) | Web & Produto | HTML, CSS, Vanilla JS |
 | [Tessumax](https://github.com/KelvinOliveiraCode/tessumax-landing) | Web & Produto | HTML, Landing, Conversion |
-| [Guias de estudo](https://github.com/KelvinOliveiraCode/guias-estudo) | Web & Produto | HTML, Content, SEO |
 | [KODAROS Landing](https://github.com/KelvinOliveiraCode/kodaros-landing) | Web & Produto | HTML, Branding, Deploy |
 
 Projetos de backend e segurança sem página, mas com código completo:
