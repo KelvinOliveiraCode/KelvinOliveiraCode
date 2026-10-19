@@ -1,8 +1,24 @@
 # Kelvin Oliveira
 
+<div align="center">
+
+[English](README.en.md) · **Português (Brasil)**
+
+</div>
+
+[![Repositórios](https://img.shields.io/github/repos/KelvinOliveiraCode?style=flat-square&label=reposit%C3%B3rios&color=00758F)](https://github.com/KelvinOliveiraCode?tab=repositories)
+[![Portfólio](https://img.shields.io/badge/portf%C3%B3lio-visitando-0A2540?style=flat-square)](https://kelvinoliveiracode.github.io/portfolio/)
+[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-f4c430?style=flat-square)](LICENSE)
+
+<!-- TODO: add a banner image -->
+
 Desenvolvedor de software com foco em dados e IA, backend Java, frontend web, cibersegurança, redes e infraestrutura. Estudante de Ciência da Computação (IFPA) e de Análise e Desenvolvimento de Sistemas (Uniasselvi), baseado em Ananindeua, PA.
 
-100+ repositórios públicos no GitHub, 12 deles com página publicada e funcionando. Quatro bootcamps corporativos com etapa seletiva concluídos em 2026 na DIO (Santander, Bradesco, Riachuelo, CI&T).
+Mais de 100 repositórios públicos no GitHub, 11 deles com página publicada e funcionando. Quatro bootcamps corporativos com etapa seletiva concluídos em 2026 na DIO (Santander, Bradesco, Riachuelo e CI&T).
+
+[O que eu construo](#o-que-eu-construo) · [Projetos](#projetos-em-destaque) · [Stack](#stack-principal) · [Formação](#formação) · [Contato](#contato)
+
+---
 
 ## O que eu construo
 
@@ -15,21 +31,9 @@ Seis frentes, um mesmo método: entregar o projeto todo, do dado bruto ao deploy
 - **Redes & Infraestrutura** — topologia LAN com VLANs e trunk, Modbus TCP do zero, survey de Wi-Fi por RSSI, certificação de cobre, VPC em três camadas, infraestrutura como código e controle de custo em nuvem.
 - **TI & Suporte** — service desk com fila e SLA por severidade, automação de estações com PowerShell em modo seguro, backup e restauração com verificação por hash, onboarding de câmeras IP com trilha de auditoria.
 
-## Stack principal
-
-| Camada | Tecnologias |
-|---|---|
-| Linguagens | Python, Java 21, TypeScript, JavaScript, Rust, SQL, PowerShell, HTML5, CSS3 |
-| Dados & ML | pandas, scikit-learn, XGBoost, ETL, Streamlit, TF-IDF, Excel, Power Query, Power BI |
-| Backend | Spring Boot 3, Spring AI, REST, GoF patterns, JUnit, Maven, OAuth2, RBAC, SQLite |
-| Web & Produto | React, Tailwind, PWA, Service Worker, SEO, Design System, deploy estático |
-| Cibersegurança | Pentest, CWE, MITRE ATT&CK, SIEM, OWASP Top 10, Honeypot, Forense, LGPD, AES-256 |
-| Redes & Infra | TCP/IP, VLAN & trunk, OSPF, Modbus TCP, Wi-Fi/RF, VPC 3 camadas, Terraform, IaC, FinOps |
-| DevOps & Sistema | Git, GitHub Actions, Docker, Linux, Windows Server, Active Directory, ffmpeg, Node.js |
-
 ## Projetos em destaque
 
-Os 12 projetos com página publicada e funcionando:
+Onze repositórios têm página publicada e funcionando. Oito deles estão aqui:
 
 | Projeto | Área | Stack |
 |---|---|---|
@@ -40,7 +44,6 @@ Os 12 projetos com página publicada e funcionando:
 | [Cloud4All](https://github.com/KelvinOliveiraCode/cloud4all) | Web & Produto | HTML, Rule engine |
 | [Este portfólio](https://github.com/KelvinOliveiraCode/portfolio) | Web & Produto | HTML, CSS, Vanilla JS |
 | [Tessumax](https://github.com/KelvinOliveiraCode/tessumax-landing) | Web & Produto | HTML, Landing, Conversion |
-| [Guias de estudo](https://github.com/KelvinOliveiraCode/guias-estudo) | Web & Produto | HTML, Content, SEO |
 | [KODAROS Landing](https://github.com/KelvinOliveiraCode/kodaros-landing) | Web & Produto | HTML, Branding, Deploy |
 
 Projetos de backend e segurança sem página, mas com código completo:
@@ -58,7 +61,19 @@ Projetos de backend e segurança sem página, mas com código completo:
 | [JavaForge](https://github.com/KelvinOliveiraCode/javaforge) | Backend | Construtor visual de interfaces Swing escrito em Rust |
 | [Olaria](https://github.com/KelvinOliveiraCode/olaria) | Web & Produto | Construtor de landing pages para não-técnicos, exporta HTML único |
 
-O índice completo dos 100 repositórios está em [kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracode.github.io/portfolio/).
+O índice completo de todos os repositórios está em [kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracode.github.io/portfolio/).
+
+## Stack principal
+
+| Camada | Tecnologias |
+|---|---|
+| Linguagens | Python, Java 21, TypeScript, JavaScript, Rust, SQL, PowerShell, HTML5, CSS3 |
+| Dados & ML | pandas, scikit-learn, XGBoost, ETL, Streamlit, TF-IDF, Excel, Power Query, Power BI |
+| Backend | Spring Boot 3, Spring AI, REST, GoF patterns, JUnit, Maven, OAuth2, RBAC, SQLite |
+| Web & Produto | React, Tailwind, PWA, Service Worker, SEO, Design System, deploy estático |
+| Cibersegurança | Pentest, CWE, MITRE ATT&CK, SIEM, OWASP Top 10, Honeypot, Forense, LGPD, AES-256 |
+| Redes & Infra | TCP/IP, VLAN & trunk, OSPF, Modbus TCP, Wi-Fi/RF, VPC 3 camadas, Terraform, IaC, FinOps |
+| DevOps & Sistema | Git, GitHub Actions, Docker, Linux, Windows Server, Active Directory, ffmpeg, Node.js |
 
 ## Formação
 
@@ -81,3 +96,7 @@ Certificados com link de verificação na DIO:
 - **Portfólio:** [kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracode.github.io/portfolio/)
 
 Aberto a estágio em dados, backend, cibersegurança ou TI. Se o seu time precisa de alguém que já entrega projeto publicado, me chame.
+
+## Licença
+
+[MIT](LICENSE) © Kelvin Oliveira
