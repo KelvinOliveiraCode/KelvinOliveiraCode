@@ -1,6 +1,6 @@
 # Kelvin Oliveira
 
-Desenvolvedor de software com foco em dados e IA, backend Java, frontend web, cibersegurança, redes e infraestrutura. Estudante de Ciência da Computação (IFPA) e de Análise e Desenvolvimento de Sistemas (Uniasselvi), baseado em Ananindeua, PA.
+Desenvolvedor de software com foco em dados e IA, backend, frontend web, cibersegurança, redes e infraestrutura. Estudante de Ciência da Computação (IFPA) e de Análise e Desenvolvimento de Sistemas (Uniasselvi), baseado em Ananindeua, PA.
 
 100+ repositórios públicos no GitHub, 12 deles com página publicada e funcionando. Quatro bootcamps corporativos com etapa seletiva concluídos em 2026 na DIO (Santander, Bradesco, Riachuelo, CI&T).
 
@@ -9,7 +9,7 @@ Desenvolvedor de software com foco em dados e IA, backend Java, frontend web, ci
 Seis frentes, um mesmo método: entregar o projeto todo, do dado bruto ao deploy em produção.
 
 - **Dados & IA** — pipelines de ingestão e modelagem em Python, modelos de machine learning com scikit-learn e XGBoost, dashboards em Streamlit e Excel/Power Query, agentes de IA com validação anti-alucinação.
-- **Backend Java** — APIs REST com Spring Boot 3 e Java 21, padrões de projeto aplicados com propósito, testes automatizados e pipeline de integração contínua verde.
+- **Backend** — APIs REST com Spring Boot 3 e Java 21, padrões de projeto aplicados com propósito, testes automatizados e pipeline de integração contínua verde.
 - **Web & Produto** — interfaces em React e TypeScript, PWAs offline-first, sites estáticos rápidos em HTML/CSS/JS puro e produtos digitais que saem da ideia ao deploy com identidade própria.
 - **Cibersegurança** — segurança aplicada em laboratório: scanner de pentest com classificação CWE, detecção com regras e correlação temporal, alertas MITRE ATT&CK, honeypot, forense de memória e conformidade LGPD.
 - **Redes & Infraestrutura** — topologia LAN com VLANs e trunk, Modbus TCP do zero, survey de Wi-Fi por RSSI, certificação de cobre, VPC em três camadas, infraestrutura como código e controle de custo em nuvem.
@@ -40,7 +40,6 @@ Os 12 projetos com página publicada e funcionando:
 | [Cloud4All](https://github.com/KelvinOliveiraCode/cloud4all) | Web & Produto | HTML, Rule engine |
 | [Este portfólio](https://github.com/KelvinOliveiraCode/portfolio) | Web & Produto | HTML, CSS, Vanilla JS |
 | [Tessumax](https://github.com/KelvinOliveiraCode/tessumax-landing) | Web & Produto | HTML, Landing, Conversion |
-| [Guias de estudo](https://github.com/KelvinOliveiraCode/guias-estudo) | Web & Produto | HTML, Content, SEO |
 | [KODAROS Landing](https://github.com/KelvinOliveiraCode/kodaros-landing) | Web & Produto | HTML, Branding, Deploy |
 
 Projetos de backend e segurança sem página, mas com código completo:
