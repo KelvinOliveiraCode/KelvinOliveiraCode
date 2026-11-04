@@ -2,9 +2,9 @@
 
 [English](README.en.md) · **Português (Brasil)**
 
-**Engenheiro de Sistemas de IA** — workflows agênticos e arquitetura multiagente aplicados a software, sites, sistemas, infraestrutura, cibersegurança, dados, backend e redes.
+**Engenheiro de Sistemas de IA**, workflows agênticos e arquitetura multiagente aplicados a software, sites, sistemas, infraestrutura, cibersegurança, dados, backend e redes.
 
-Estudo Ciência da Computação no IFPA e Análise e Desenvolvimento de Sistemas na Uniasselvi. Construo cada projeto orquestrando agentes de IA que implementam na tecnologia que o projeto pedir — Python, Java, TypeScript, Rust, JavaScript, HTML, PowerShell ou planilhas — e levo cada um até o fim: do pipeline de dados à API em Spring Boot, da interface em React ao laboratório de cibersegurança.
+Estudo Ciência da Computação no IFPA e Análise e Desenvolvimento de Sistemas na Uniasselvi. Construo cada projeto orquestrando agentes de IA que implementam na tecnologia que o projeto pedir, Python, Java, TypeScript, Rust, JavaScript, HTML, PowerShell ou qualquer stack que se adapte ao projeto, e levo cada um até o fim: do pipeline de dados à API em Spring Boot, da interface em React ao laboratório de cibersegurança.
 
 Portfólio: **[kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracode.github.io/portfolio/)**
 
@@ -19,7 +19,7 @@ Portfólio: **[kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracod
 
 ## Sobre
 
-Em 2026 fundei o **KODAROS**, um ecossistema com produtos de tecnologia e educação já rodando em produção. No mesmo ano saiu o **Garimpo**, curadoria de ofertas com 131 itens no catálogo. Passei também pela seleção de quatro bootcamps da DIO — Santander, Bradesco, Riachuelo e CI&T — e cada um terminou com projeto publicado, não só com certificado.
+Em 2026 fundei o **KODAROS**, um ecossistema com produtos de tecnologia e educação já rodando em produção. No mesmo ano saiu o **Garimpo**, curadoria de ofertas com 131 itens no catálogo. Passei também pela seleção de quatro bootcamps da DIO — Santander, Bradesco, Riachuelo e CI&T e cada um terminou com projeto publicado, não só com certificado.
 
 Cada domínio abaixo tem repositório público ligado: mesmo nome, mesma stack, mesmo histórico.
 
@@ -70,7 +70,7 @@ O Cloud4All foi aprovado para apresentação no **CONNEPI 2026**, em Fortaleza.
 
 ## Como trabalho
 
-Projeto individual: desenho a solução, orquestro os agentes que a implementam, reviso e mantenho o código. Na prática isso significa testar quando o risco pede, publicar o deploy direto do meu repositório — sem plataforma no meio — e manter a documentação em português e inglês em dia antes de medir cada resultado.
+Projeto individual: desenho a solução, orquestro os agentes que a implementam, reviso e mantenho o código. Na prática isso significa testar quando o risco pede, publicar o deploy direto do meu repositório com ou sem plataforma no meio e manter a documentação em português e inglês em dia antes de medir cada resultado.
 
 O índice completo dos 103 repositórios está em [kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracode.github.io/portfolio/), com o explorador que abre o GitHub ramo por ramo.
 
