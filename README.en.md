@@ -2,87 +2,70 @@
 
 **English** · [Português (Brasil)](README.md)
 
-**AI Systems Engineer** — agentic workflows and multi-agent architecture applied to software, sites, systems, infrastructure, cybersecurity, data, backend and networking.
+**AI Systems Engineer.** Agentic Workflows and Multiagent Architecture applied to software, websites, systems, infrastructure, cybersecurity, data, backend and networks.
 
-I study Computer Science at IFPA and Systems Analysis and Development at Uniasselvi. I build every project by orchestrating AI agents that implement it in whatever technology the project calls for — Python, Java, TypeScript, Rust, JavaScript, HTML, PowerShell or spreadsheets — and I take each one to the end: from the data pipeline to the Spring Boot API, from the React interface to the cybersecurity lab.
-
-Portfolio: **[kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracode.github.io/portfolio/)**
+[Portfolio](https://kelvinoliveiracode.github.io/portfolio/) · [About](https://kelvinoliveiracode.github.io/portfolio/sobre/) · [Projects](https://kelvinoliveiracode.github.io/portfolio/projetos/) · [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-code/)
 
 ## Numbers
 
-| | |
+| Metric | Value |
 |---|---|
-| **103** | public repositories, synced with GitHub |
-| **9** | pages live, verified one by one |
-| **4** | corporate bootcamps with a selection stage — DIO, 2026 |
-| **169 h** | of training completed at DIO (Santander, Bradesco, Riachuelo and CI&T) |
-
-## About
-
-In 2026 I founded **KODAROS**, an ecosystem of technology and education products already running in production. The same year brought **Garimpo**, a deals curation with 131 items in the catalogue. I also went through the selection of four DIO bootcamps — Santander, Bradesco, Riachuelo and CI&T — and each one ended with a published project, not just a certificate.
-
-Every domain below has a public repository behind it: same name, same stack, same history.
+| Public repositories | 105 |
+| Live pages | 13 |
+| DIO bootcamps 2026 | 5 |
+| DIO training | 219 h |
 
 ## What I build
 
-| Domain | What is in it | Example |
-|---|---|---|
-| **Software** | KodaGrid, Olaria, SlideStage and JavaForge | [olaria](https://github.com/KelvinOliveiraCode/olaria) |
-| **Sites** | Garimpo, KODAROS, Cloud4All and the generators | [garimpo](https://github.com/KelvinOliveiraCode/garimpo) |
-| **Systems** | Payment APIs, an OAuth2 + RBAC portal | [kodapay-api](https://github.com/KelvinOliveiraCode/kodapay-api) |
-| **Infrastructure** | IaC, FinOps and a three-tier VPC | [infra-as-code-lab](https://github.com/KelvinOliveiraCode/infra-as-code-lab) |
-| **Cybersecurity** | Pentest scanner, SIEM pipeline and LGPD compliance | [pentest-lab-scanner](https://github.com/KelvinOliveiraCode/pentest-lab-scanner) |
-| **Data** | Fraud detection, churn and demand forecasting | [deteccao-de-fraudes](https://github.com/KelvinOliveiraCode/deteccao-de-fraudes) |
-| **Backend** | Java 21, Spring Boot 3, Python and hexagonal architecture | [kodabudget-api](https://github.com/KelvinOliveiraCode/kodabudget-api) |
-| **Networking** | Modbus TCP, network topology and Wi-Fi survey | [modbus-scanner](https://github.com/KelvinOliveiraCode/modbus-scanner) |
+| Domain | Examples |
+|---|---|
+| Software | KodaGrid, Olaria, SlideStage, JavaForge |
+| Websites | Garimpo, KODAROS, Cloud4All, site showcase |
+| Systems | Payments API, portal with OAuth2 and RBAC |
+| Infrastructure | Terraform, FinOps, VPC in three tiers |
+| Cybersecurity | Pentest scanner, SIEM pipeline |
+| Data | Fraud detection |
+| Backend | Java 21, Spring Boot 3, hexagonal architecture |
+| Networks | Modbus TCP, wireless coverage survey |
 
-## Featured projects
+## Highlights
 
 | Project | What it is | Numbers |
 |---|---|---|
-| **[KODAROS](https://github.com/KelvinOliveiraCode/kodaros-landing)** | Product and service ecosystem: e-books, free tools, desktop software and sites | 8 e-books, 50+ tools, KodaGrid (Windows), free diagnostic |
-| **[Garimpo](https://github.com/KelvinOliveiraCode/garimpo)** | Deals curation with filters, wishlist and SEO, running entirely in the browser | 131 deals, 100% client-side, filters and wishlist, `llms.txt` |
-| **[Cloud4All](https://github.com/KelvinOliveiraCode/cloud4all)** | Open cloud atlas: catalogue, glossary, recommender with a visible trail and official courses | 124 services, 8 providers, 96 glossary terms, open JSON catalogue |
+| [KODAROS](https://github.com/KelvinOliveiraCode/kodaros-landing) | Technology and education products | 8 digital books, 50+ tools, KodaGrid |
+| [Garimpo](https://github.com/KelvinOliveiraCode/garimpo) | Offers curation in the browser | 131 offers, 100% in the browser |
+| [Cloud4All](https://github.com/KelvinOliveiraCode/cloud4all) | Open atlas of the cloud | 124 services, 8 providers, 96 terms |
 
-Cloud4All was accepted for presentation at **CONNEPI 2026**, in Fortaleza.
+Cloud4All approved for presentation at **CONNEPI 2026**, in Fortaleza.
 
 ## Stack
 
 | Layer | Technologies |
 |---|---|
-| Languages | Python, Java 21, TypeScript, JavaScript, Rust, SQL, PowerShell, HTML5, CSS3 |
-| Data & ML | pandas, scikit-learn, XGBoost, ETL, Streamlit, TF-IDF, Excel, Power Query, Power BI |
-| Backend | Spring Boot 3, Spring AI, REST, GoF patterns, JUnit, Maven, OAuth2, RBAC, SQLite |
-| Web & Product | React, Tailwind, PWA, Service Worker, SEO, design system, static deploy |
-| Desktop | Tauri 2, Rust, WebView2 |
-| Cybersecurity | Pentest, CWE, MITRE ATT&CK, SIEM, OWASP Top 10, honeypot, forensics, LGPD, AES-256 |
-| Networking & Infra | TCP/IP, VLAN and trunk, OSPF, Modbus TCP, Wi-Fi/RF, three-tier VPC, Terraform, IaC, FinOps |
-| DevOps & OS | Git, GitHub Actions, Docker, Linux, Windows Server, Active Directory, ffmpeg, Node.js |
+| AI and agents | AI agents, RAG, Spring AI, prompt engineering, GitHub Copilot, Claude Code |
+| Software and backend | Java 21, Python, TypeScript, Rust, SQL, Spring Boot 3, GoF patterns, JUnit |
+| Web and product | React, Tailwind, PWA, Service Worker, SEO, HTML5, CSS3, JavaScript |
+| Data and machine learning | pandas, scikit-learn, XGBoost, ETL, TF-IDF, Streamlit, Power BI |
+| Cybersecurity | Pentest, CWE, MITRE ATT&CK, SIEM, OWASP Top 10, LGPD, AES 256 |
+| Networks and infrastructure | TCP/IP, VLAN, OSPF, Modbus TCP, Terraform, IaC, FinOps, Docker, Linux |
+| Product and business | Business analysis, dashboards, KPIs, SLA, helpdesk |
+| Languages | Native Portuguese, technical English |
 
-## DIO bootcamps (2026)
+## DIO bootcamps 2026
 
-| Bootcamp | Final project |
-|---|---|
-| Bradesco — GenAI, Data and Cyber | BIA, a financial agent with anti-hallucination validation |
-| Riachuelo — Building Products with AI | ATS résumé generator with an online deploy |
-| Santander — Excel with AI and Claude | Four hands-on challenges delivered |
-| CI&T — Java AI Copilot | Voice-driven financial assistant and a payment API with GoF patterns |
-
-## How I work
-
-Solo project: I design the solution, orchestrate the agents that implement it, review and maintain the code. In practice that means testing when the risk calls for it, deploying straight from my own repository — no platform in between — and keeping the documentation current in Portuguese and English before measuring each result.
-
-The full index of all 103 repositories is at [kelvinoliveiracode.github.io/portfolio](https://kelvinoliveiracode.github.io/portfolio/), with the explorer that opens GitHub branch by branch.
+| Bootcamp | Hours | Capstone |
+|---|---|---|
+| Santander, Data with Python and AI | 50 | Data Pilot |
+| Bradesco, GenAI, Data and Cyber | 52 | BIA, finance agent |
+| Riachuelo, Building Products with AI | 35 | ATS resume builder |
+| Santander, Excel with AI and Claude | 29 | Four practical challenges |
+| CI&T, Java AI Copilot | 53 | Voice assistant and payments API |
 
 ## Contact
 
-I am interested in opportunities in AI and agents, data, backend, cybersecurity and IT. If your team needs someone who has already shipped and keeps things running, reach out.
+* LinkedIn: [kelvin-oliveira-code](https://www.linkedin.com/in/kelvin-oliveira-code/)
+* Email: kelvinrebelosw@gmail.com
+* WhatsApp: +55 91 98613-4599
+* GitHub: [@KelvinOliveiraCode](https://github.com/KelvinOliveiraCode)
 
-- [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-code/) — kelvin-oliveira-code
-- **E-mail**: kelvinrebelosw@gmail.com
-- **WhatsApp**: +55 91 98613-4599
-- **GitHub**: [@KelvinOliveiraCode](https://github.com/KelvinOliveiraCode)
-
----
-
-© 2026 Kelvin Rebelo de Oliveira · Ananindeua, PA, Brazil
+© 2026 Kelvin Rebelo de Oliveira · Ananindeua, PA
