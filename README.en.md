@@ -1,71 +1,106 @@
 # Kelvin Oliveira
 
-**English** · [Português (Brasil)](README.md)
+[Português](README.md)
 
-**AI Systems Engineer.** Agentic Workflows and Multiagent Architecture applied to software, websites, systems, infrastructure, cybersecurity, data, backend and networks.
+I build software with agents. I write the specification, set the limits for each task and review the result. The agents write the code, run the tests and produce the evidence. I operate what comes out of that loop.
 
-[Portfolio](https://kelvinoliveiracode.github.io/portfolio/) · [About](https://kelvinoliveiracode.github.io/portfolio/sobre/) · [Projects](https://kelvinoliveiracode.github.io/portfolio/projetos/) · [LinkedIn](https://www.linkedin.com/in/kelvin-oliveira-code/)
+SelfEvoPI is the harness that came out of that process. It now runs the cycle itself: it detects a gap, writes the artifact, verifies it, applies the gate and either promotes or reverts.
+
+Portfolio: https://kelvinoliveiracode.github.io/portfolio/
+Projects: https://kelvinoliveiracode.github.io/portfolio/projetos/
+LinkedIn: https://www.linkedin.com/in/kelvin-oliveira-code/
+
+```text
+KELVIN OLIVEIRA
++-- agents      SelfEvoPI, orchestration, evals
++-- data        fraud detection, churn, KB-search
++-- cyber       pentest 11 CWE, SIEM 7 rules
++-- infra       VPC 3 tiers, Modbus from scratch
++-- backend     Kodapay 6 GoF, Java 21, Spring Boot 3
++-- web         KODAROS 8 e-books, Garimpo 131 offers
++-- it          service desk, hash-verified backup, onboarding
+```
+
+## How I work
+
+- I define the problem, the constraints and the done criterion before asking for code.
+- I orchestrate agents with explicit roles, permissions and context limits.
+- I verify with tests, deterministic evals and checks against the source. Every number comes from a command I ran or a primary source.
+- I publish and maintain. 14 pages are live and the repositories keep getting updates.
+
+## Work
+
+**SelfEvoPI**
+
+A coding-agent harness at version 2.0.0, native on Windows, with zero npm dependencies. The CLI is the only surface and the engine is an external process spoken over RPC.
+
+- 1303 tests in `npm test`: 1296 pass and 7 are skipped. `npm run verify` closes 33/33 URLs.
+- The loop runs detect, specify, generate, verify, gate and promote. Every stage is testable. A red gate reverts the delta.
+- Context is a budget: +499 tokens over a ceiling of 1500. Average cold start of ~82 ms across 7 runs.
+- Persistent teams with a board and a deterministic step, an event bus with a saved cursor and memory with secret redaction.
+- Refutation audit with an external judge in the CLI, a security ledger for block and warn decisions, a static gate with 13 rules.
+- 48 models with checked capabilities, nine model roles and a cooldown for models that fail.
+
+Site: https://kelvinoliveiracode.github.io/SelfEvoPI-site/
+Code: https://github.com/KelvinOliveiraCode/SelfEvoPI
+
+**Credit-card fraud detection**
+
+A machine-learning pipeline over 284,000 transactions, with 0.17% fraud in the data. The imbalance was handled and three models were compared against a declared criterion. The final model reached ROC AUC 0.94.
+
+https://github.com/KelvinOliveiraCode/deteccao-de-fraudes
+
+**KODAROS**
+
+A platform for digital products. The landing brings together eight e-books and six service pages. A three-question diagnosis returns a PDF. The tools run entirely in the browser: 53 calculators and generators, an offline-first PWA and 19 asserts in a jsdom smoke test on CI. The showcase has 50 demos, one per niche.
+
+Site: https://kelvinoliveiracode.github.io/kodaros-landing/
+Tools: https://kelvinoliveiracode.github.io/kodaros-ferramentas/
+Code: https://github.com/KelvinOliveiraCode/kodaros-landing
 
 ## Numbers
 
-| Metric | Value |
-|---|---|
-| Public repositories | 105 |
-| Live pages | 13 |
-| DIO bootcamps 2026 | 5 |
-| DIO training | 219 h |
+- 109 public repositories
+- 14 live pages
+- 5 DIO bootcamps in 2026, 219 hours of training
+- Cloud4All accepted at CONNEPI 2026
 
-## What I build
+Source: https://github.com/KelvinOliveiraCode/portfolio/tree/main/data
 
-| Domain | Examples |
-|---|---|
-| Software | KodaGrid, Olaria, SlideStage, JavaForge |
-| Websites | Garimpo, KODAROS, Cloud4All, site showcase |
-| Systems | Payments API, portal with OAuth2 and RBAC |
-| Infrastructure | Terraform, FinOps, VPC in three tiers |
-| Cybersecurity | Pentest scanner, SIEM pipeline |
-| Data | Fraud detection |
-| Backend | Java 21, Spring Boot 3, hexagonal architecture |
-| Networks | Modbus TCP, wireless coverage survey |
+## Where I work
 
-## Highlights
+- Data and AI: pipelines in Python, machine learning with scikit-learn and XGBoost, dashboards and agents with anti-hallucination validation.
+- Backend: REST APIs with Spring Boot 3 and Java 21, design patterns with a stated purpose, tests and CI.
+- Web and product: static sites in plain HTML, CSS and JavaScript, offline-first PWAs, publishing and maintenance.
+- Cybersecurity: pentests with CWE reporting, detection with MITRE ATT&CK alerts, honeypots and LGPD compliance.
+- Networks and infrastructure: LAN topology, Modbus TCP from scratch, WiFi surveys, tiered VPCs and infrastructure as code.
+- IT and support: service desk with SLA, workstation automation, hash-verified backups and camera onboarding.
 
-| Project | What it is | Numbers |
-|---|---|---|
-| [KODAROS](https://github.com/KelvinOliveiraCode/kodaros-landing) | Technology and education products | 8 digital books, 50+ tools, KodaGrid |
-| [Garimpo](https://github.com/KelvinOliveiraCode/garimpo) | Offers curation in the browser | 131 offers, 100% in the browser |
-| [Cloud4All](https://github.com/KelvinOliveiraCode/cloud4all) | Open atlas of the cloud | 124 services, 8 providers, 96 terms |
+## Lab
 
-Cloud4All approved for presentation at **CONNEPI 2026**, in Fortaleza.
+<details>
+<summary>Project index by area</summary>
 
-## Stack
+- Agents and AI: SelfEvoPI, BIA, banking RAG agent, ATS resume builder
+- Data: fraud detection, churn analysis, demand forecasting, KB-search, drift MLOps
+- Backend: Kodapay, KodaBudget, OAuth2 and RBAC portal, JavaForge, services marketplace
+- Web: KODAROS, Garimpo, portfolio, Olaria, SlideStage, Cloud4All
+- Cybersecurity: pentest lab, SIEM, honeypot, header audit, deepfake detector
+- Infrastructure: three-tier VPC, Modbus TCP, WiFi survey, FinOps, Terraform
+- IT: service desk, asset inventory, GFS backup, workstation onboarding
 
-| Layer | Technologies |
-|---|---|
-| AI and agents | AI agents, RAG, Spring AI, prompt engineering, GitHub Copilot, Claude Code |
-| Software and backend | Java 21, Python, TypeScript, Rust, SQL, Spring Boot 3, GoF patterns, JUnit |
-| Web and product | React, Tailwind, PWA, Service Worker, SEO, HTML5, CSS3, JavaScript |
-| Data and machine learning | pandas, scikit-learn, XGBoost, ETL, TF-IDF, Streamlit, Power BI |
-| Cybersecurity | Pentest, CWE, MITRE ATT&CK, SIEM, OWASP Top 10, LGPD, AES 256 |
-| Networks and infrastructure | TCP/IP, VLAN, OSPF, Modbus TCP, Terraform, IaC, FinOps, Docker, Linux |
-| Product and business | Business analysis, dashboards, KPIs, SLA, helpdesk |
-| Languages | Native Portuguese, technical English |
+</details>
 
-## DIO bootcamps 2026
+<details>
+<summary>Education and bootcamps</summary>
 
-| Bootcamp | Hours | Capstone |
-|---|---|---|
-| Santander, Data with Python and AI | 50 | Data Pilot |
-| Bradesco, GenAI, Data and Cyber | 52 | BIA, finance agent |
-| Riachuelo, Building Products with AI | 35 | ATS resume builder |
-| Santander, Excel with AI and Claude | 29 | Four practical challenges |
-| CI&T, Java AI Copilot | 53 | Voice assistant and payments API |
+Computer Science at IFPA and a degree in Information Systems at Uniasselvi. 219 hours of training at DIO in 2026: Santander, data with Python and AI (50 h); Bradesco, GenAI, data and cyber (52 h); Riachuelo, building products with AI (35 h); Santander, Excel with AI and Claude (29 h); CI&T, Java AI Copilot (53 h).
+
+</details>
 
 ## Contact
 
-* LinkedIn: [kelvin-oliveira-code](https://www.linkedin.com/in/kelvin-oliveira-code/)
-* Email: kelvinrebelosw@gmail.com
-* WhatsApp: +55 91 98613-4599
-* GitHub: [@KelvinOliveiraCode](https://github.com/KelvinOliveiraCode)
-
-© 2026 Kelvin Rebelo de Oliveira · Ananindeua, PA
+LinkedIn: https://www.linkedin.com/in/kelvin-oliveira-code/
+Email: kelvinrebelosw@gmail.com
+WhatsApp: +55 91 98613-4599
+Ananindeua, PA, Brazil
